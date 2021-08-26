@@ -1,2 +1,2 @@
-# putMethod
+# fetch
 Created with CodeSandbox

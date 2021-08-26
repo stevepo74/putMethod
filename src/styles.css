@@ -1,0 +1,7 @@
+body {
+  font-family: sans-serif;
+  background-color: lightgreen;
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
